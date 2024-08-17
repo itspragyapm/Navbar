@@ -1,2 +1,2 @@
 # Navbar
-I have created navigation bar , with it's submenu
+I have created responsive navigation bar , with it's submenu using js, html and css
